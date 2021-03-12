@@ -16,6 +16,6 @@ Here I'll put my devlogs for "Drawing, Moving, and Seeing with Code"
 
 [my NoPaint experience](2021-02-17-NoPaint-Work.md)
 
-### Devlog 3
+## Devlog 3
 
-[my_thoughts_on_emergence](2021-03-10-A-Life.md)
+[my thoughts on Emergence](2021-03-10-A-Life.md)
