@@ -25,5 +25,14 @@ I don't know, as someone who likes to understand what I'm doing, it was very fru
 
 I much preferred looking out the work I found outside of class. I obviously still couldn't understand the process, but the sounds being made impressed and made me question curiously how it was possible to make this with the elements I struggle with so much.
 
+Most of the works I found appealing leaned more of the chiptune/computer sound aesthethic, but this one stood out to me in how weird and experimental it was:
+
+[https://www.youtube.com/watch?v=ca3J1cztnrc&t=1534s](https://www.youtube.com/watch?v=ca3J1cztnrc&t=1534s)
+
+This one was my favorite. I'm not sure if it still counts as TicalCycles, since it just sounds so different
+from the other music I found. But I still love the sound they made here:
+
+https://www.youtube.com/watch?v=qhc_p4RdhFw&t=162s
+
 Overall, I do like the program of TidalCycles and the possibilities is provides in terms of computer music. It's sad, however, that outside from respect and admiration, I can't enjoy the process much, only as an outsider looking in.
 
