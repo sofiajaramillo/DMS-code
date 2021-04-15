@@ -4,7 +4,7 @@ The process of coding a game for squirrels eating other squirrels was a bit of a
 
 I mainly took the lead in this group project. Well, "lead" as in I did most of the actual coding, while the rest of group members did the design elements. I don't like to look at it as me doing most of the work, but more like I choose the option that allowed me to code the game the way I saw fit.
 
-The process began pretty simple. I first wrote a class for the player. This included a simple display function, which displayed a simple circle, as well as a move function that utilized the arrow keys to move the circle, with the user's input. Then I coded the enemy class, which also displayed a circle, and moved by being placed in random locations each run, as well as random sizes. The point was to create multiple enemy objects in an array, which would act as the random enemy circles the player either eat or get eatten by.
+It began pretty simple. I first wrote a class for the player. This included a simple display function, which displayed a simple circle, as well as a move function that utilized the arrow keys to move the circle, with the user's input. Then I coded the enemy class, which also displayed a circle, and moved by being placed in random locations each run, as well as random sizes. The point was to create multiple enemy objects in an array, which would act as the random enemy circles the player either eat or get eatten by.
 
 The difficult part here on out was finding a way to write the program so that these enemies and player could interact in the way they're supposed to. As in, actually eating each other. I was able to accomplish this by creating a method in the player class that checked the location of the player in relation to any enemy object/circle on the sketch. Based on this location, the player would either "eat" the enemy it came into contact on the basis that it's smaller in size, and increase in size. If it's bigger, than you would get hit and loose a "life", and after loosing 3 lives, you would lose overall. 
 
@@ -31,6 +31,8 @@ The last implementation was the difficult one. My team member worked on a sketch
 Overall, I implemented all my team members design elements into my code so that the game finally started to look like a "squirrel eat squirrel" game, not just circles eating circles.
 
 Again, no screenshots, but here's a drawing:
+
+![Squirrel Sketch 2.jpg]({{site.baseurl}}/Squirrel Sketch 2.jpg)
 
 
 # Advanced Stuff
