@@ -38,6 +38,8 @@ Obviously, some of these are a bit iffy, or not working how I want it to work ex
 
 I want to implement another button to make the squirrel player move on it's own, and maybe an "apple" that would add an extra life or increase the squirrel's size. But as of writing this, I'm not sure if I'll be able to, since I'm focusing on adding my other members new updated elements, but we'll see.
  
+Here's how the game looks like as of now:
+
 
 
 
