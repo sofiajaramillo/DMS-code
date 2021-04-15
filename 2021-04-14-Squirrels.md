@@ -45,6 +45,7 @@ I want to implement another button to make the squirrel player move on it's own,
  
 Here's how the game looks like as of now:
 
+![Squirrel1.png]({{site.baseurl}}/Squirrel1.png)
 
 
 
