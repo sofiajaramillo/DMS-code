@@ -14,6 +14,9 @@ This method I would later within the enemy class itself so that the enemies coul
 
 I didn't get to take a screenshot, but here's a sketch of what my sketch looked like:
 
+![Squirrel Sketch.jpg]({{site.baseurl}}/Squirrel Sketch.jpg)
+
+
 # Implementations
 
 The basics were down. Now my goal was to implement my member's contributions into my main code. 
@@ -27,7 +30,7 @@ The last implementation was the difficult one. My team member worked on a sketch
 
 Overall, I implemented all my team members design elements into my code so that the game finally started to look like a "squirrel eat squirrel" game, not just circles eating circles.
 
-Again, no screenshots, but here a drawing:
+Again, no screenshots, but here's a drawing:
 
 
 # Advanced Stuff
