@@ -26,7 +26,12 @@ Overall, I implemented all my team members design elements into my code so that 
 I didn't take screenshots as I worked, but here's a quick sketch of how my sketched looked like and how it looked like after:
 
 
-After implementing my members code, I worked on adding the other features. I added a quick fullscreen option, 
+After implementing my members code, I worked on adding the other features. I added a quick fullscreen option, I fixed the player lives since they weren't working, I made it so that a new squirrel could appear after 120 frames, and I added two buttons to toggle between two different speeds for the enemies. I also tried adding a button to reset the game, in case the random location/sizes of the enemies don't seem favorable.
+
+Obviously, some of these are a bit iffy, or not working how I want it to work exactly, but I think they do their job well, especially considering my contraints.
+
+I want to implement another button to make the squirrel player move on it's own, and maybe an "apple" that would add an extra life or increase the squirrel's size. But as of writing this, I'm not sure if I'll be able to. 
+ 
 
 
 
