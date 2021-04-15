@@ -1,8 +1,8 @@
 ## Squirrel Eat Squirrel
 
-The processing for coding a game for squirrels eating other squirrels was a bit of a fun struggle.
+The process of coding a game for squirrels eating other squirrels was a bit of a fun struggle.
 
-I mainly took the lead in this group project. Well, "lead" as in I did most of the actual coding, while the rest of group members did the design elements. I don't like to look at it as me doing most of the work, but more like I choose the option that allowed me to code the game the way I saw it fit.
+I mainly took the lead in this group project. Well, "lead" as in I did most of the actual coding, while the rest of group members did the design elements. I don't like to look at it as me doing most of the work, but more like I choose the option that allowed me to code the game the way I saw fit.
 
 The process began pretty simple. I first wrote a class for the player. This included a simple display function, which displayed a simple circle, as well as a move function that utilized the arrow keys to move the circle, with the user's input. Then I coded the enemy class, which also displayed a circle, and moved by being placed in random locations each run, as well as random sizes. The point was to create multiple enemy objects in an array, which would act as the random enemy circles the player either eat or get eatten by.
 
