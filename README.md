@@ -29,3 +29,5 @@ Here I'll put my devlogs for "Drawing, Moving, and Seeing with Code"
 [my work in Hydra](2021-04-03-Hydra.md)
 
 ### Devlog 6
+
+[my Squirrels](2021-04-14-Squirrels.md)
