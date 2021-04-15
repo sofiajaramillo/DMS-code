@@ -12,6 +12,8 @@ All of this was incapsulated in a method. Or two, as in, the other method that e
 
 This method I would later within the enemy class itself so that the enemies could actually eat each other, not just the player.
 
+I didn't get to take a screenshot, but here's a sketch of what my sketch looked like:
+
 # Implementations
 
 The basics were down. Now my goal was to implement my member's contributions into my main code. 
@@ -25,7 +27,7 @@ The last implementation was the difficult one. My team member worked on a sketch
 
 Overall, I implemented all my team members design elements into my code so that the game finally started to look like a "squirrel eat squirrel" game, not just circles eating circles.
 
-I didn't take screenshots as I worked, but here's a quick sketch of how my sketched looked like and how it looked like after:
+Again, no screenshots, but here a drawing:
 
 
 # Advanced Stuff
