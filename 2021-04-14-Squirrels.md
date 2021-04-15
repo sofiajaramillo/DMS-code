@@ -25,10 +25,10 @@ First, the easiest implementation, was the enemy's movement which one of my memb
 
 The second was bit trickier. This involved implementing the grass, which was a background and grass blades which were procedurally generated. The background was fine enough, but the blades weren't working for some reason. Thankfully, my other member was able to fix it and get it working.
 
-The last implementation was the difficult one. My team member worked on a sketch for the player and the enemy; two sketches of squirrels made up of ellipses and shapes. The sketches were fine on their own, but I knew that I had to have these squirrels as individual images, not just multiple lines of ellipses, for the code to avoid unnecessary problems. It was tricky, but I manage to export them as png with the save function, and import then as singular images with one x and one y. 
+The last implementation was the difficult one. My team member worked on a sketch for the player and the enemy; two sketches of squirrels made up of ellipses and shapes. The sketches were fine on their own, but I knew that I had to have these squirrels as individual images, not just multiple lines of ellipses, for the code to avoid unnecessary problems. It was tricky, but I manage to export them as pngs with the save function, and import then as singular images with one x and one y. 
 
 
-Overall, I implemented all my team members design elements into my code so that the game finally started to look like a "squirrel eat squirrel" game, not just circles eating circles.
+Overall, I implemented all my team members' design elements into my code so that the game finally started to look like a "squirrel eat squirrel" game, not just circles eating circles.
 
 Again, no screenshots, but here's a drawing:
 
