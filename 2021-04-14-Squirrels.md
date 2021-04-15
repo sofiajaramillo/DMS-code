@@ -10,7 +10,7 @@ The difficult part here on out was finding a way to write the program so that th
 
 All of this was incapsulated in a method. Or two, as in, the other method that ended the sketch when all the lives were lost. Overall, I was able to create a sketch where a player circle, controlled by the user, could eat other circles that were smaller or get eatten by those that were bigger.
 
-This method I would later within the enemy class itself so that the enemies could actually eat each other, not just the player.
+I would use this method later within the enemy class itself so that the enemies could actually eat each other, not just the player.
 
 I didn't get to take a screenshot, but here's a sketch of what my sketch looked like:
 
