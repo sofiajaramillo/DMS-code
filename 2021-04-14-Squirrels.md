@@ -12,6 +12,8 @@ All of this was incapsulated in a method. Or two, as in, the other method that e
 
 This method I would later within the enemy class itself so that the enemies could actually eat each other, not just the player.
 
+#Implementations
+
 The basics were down. Now my goal was to implement my member's contributions into my main code. 
 
 First, the easiest implementation, was the enemy's movement which one of my members worked on. "Movement" as in the enemies didn't just sit in static locations but actually moved in an erratic way. I simply implemented this code into the move method of my enemy class.
@@ -25,6 +27,8 @@ Overall, I implemented all my team members design elements into my code so that 
 
 I didn't take screenshots as I worked, but here's a quick sketch of how my sketched looked like and how it looked like after:
 
+
+#Advanced Stuff
 
 After implementing my members code, I worked on adding the other features. I added a quick fullscreen option, I fixed the player lives since they weren't working, I made it so that a new squirrel could appear after 120 frames, and I added two buttons to toggle between two different speeds for the enemies. I also tried adding a button to reset the game, in case the random location/sizes of the enemies don't seem favorable.
 
