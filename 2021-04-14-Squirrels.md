@@ -19,7 +19,7 @@ I didn't get to take a screenshot, but here's a sketch of what my sketch looked 
 
 # Implementations
 
-The basics were down. Now my goal was to implement my member's contributions into my main code. 
+The basics were down. Now my goal was to implement my members' contributions into my main code. 
 
 First, the easiest implementation, was the enemy's movement which one of my members worked on. "Movement" as in the enemies didn't just sit in static locations but actually moved in an erratic way. I simply implemented this code into the move method of my enemy class.
 
@@ -37,7 +37,7 @@ Again, no screenshots, but here's a drawing:
 
 # Advanced Stuff
 
-After implementing my members code, I worked on adding the other features. I added a quick fullscreen option, I fixed the player lives since they weren't working, I made it so that a new squirrel could appear after 120 frames, and I added two buttons to toggle between two different speeds for the enemies. I also tried adding a button to reset the game, in case the random location/sizes of the enemies don't seem favorable.
+After implementing my members' code, I worked on adding the other features. I added a quick fullscreen option, I fixed the player lives since they weren't working, I made it so that a new squirrel could appear after 120 frames, and I added two buttons to toggle between two different speeds for the enemies. I also tried adding a button to reset the game, in case the random location/sizes of the enemies don't seem favorable.
 
 Obviously, some of these are a bit iffy, or not working how I want it to work exactly, but I think they do their job well, especially considering my contraints.
 
