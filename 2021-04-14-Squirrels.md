@@ -46,3 +46,7 @@ I want to implement another button to make the squirrel player move on it's own,
 Here's how the game looks like as of now:
 
 ![Squirrel1.PNG]({{site.baseurl}}/Squirrel1.png)
+
+And here's the game:
+
+https://editor.p5js.org/sofiajaramillo/sketches/-5A3rq7Vx
