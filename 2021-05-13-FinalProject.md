@@ -16,7 +16,7 @@ This would have played into the inheritance and other feature of my program. The
 
 I really wanted to play color in this project. As mentioned in my proposal, I was inpired by a project that involved inheretence in cells communicatig with each other. So I wanted to incorporate this aspect with that of color.
 
-What this resulted was the idea of making it so that the creatures evolve in color. Starting with a specific color, which they pass on to their children, except 
+What this resulted was the idea of making it so that the creatures evolve in color. Starting with a specific color, which they pass on to their children, except with a bit of difference. The desired result would be a big group of colored creatures, but because. And this paired up with the zoom out feature would result in a big blob of paint with this weid mixture of hue. Almost like a paint brush that the mouse controls.
 
 
 
