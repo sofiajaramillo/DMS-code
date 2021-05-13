@@ -40,15 +40,15 @@ Again, I couldn't simply write by own code for this, since it would require a de
 
 I landed on the example for separation forces in the "Nature of Code" book, chapter 6 section 8. It did exactly what I was intending for. And in a perfect world I would have simply taken some of the basic setup of the code and brought it over to my code, simply implementing it.
 
-But overestimated how complex the code was, and the fact that I both didn't have the time and understanding to make it work that way.
+But I overestimated how complex the code was, and the fact that I both didn't have the time and understanding to make it work that way. 
 
-After some thought, I settled on the 
+After some thought, I reluctanlty settled on the idea of using this code as my basis instead, basically dropping the movement code I already had and sort of starting from scratch with this new code.
 
-Which is what I did, I used the example code, the separtion sketch as a base, and brought over my own code into it, basically modifiying to creature 
+Which is what I did, I used the example code, this separation sketch as a base, and brought over my own code into it. I basically recreated my sketch over again in a downloa
 
 ### Positives and Negatives
 
-After getting the flocking done, I had a pretty good setup. A program that 
+After getting the flocking done, I had a pretty good setup. A program that created creatures that ate and reproduced, moved by following the mouse, and stayed flocked together.
 
 Now the next part was including the rest of my features. Both successfully and not.
 
