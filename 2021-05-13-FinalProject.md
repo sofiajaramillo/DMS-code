@@ -32,11 +32,11 @@ This was also fairly easy since it's just a condensed duplicate of the creature 
 
 After finishing the food portion, I simply used some of the code from my squirrel code for eating and reproducing methods. I obviously tweaked it to fit this new context, and in the end, I managed to get it working.
 
-So now I had a program that created a creature, at this point a simple circle, that followed the mouse. With the click of the mouse, a random food pellet would appear. And if the circle went over to it. The circle would increase in size and reproduce, which simply means creating another creature object. The eaten food pellet would obviously disappear, and the user could continue to creature food pellets and feed and reproduce the creatures. 
+So now I had a program that created a creature, at this point a simple circle, that followed the mouse. With the click of the mouse, a random food pellet would appear. And if the circle went over to it, the circle would increase in size and reproduce, which simply means creating another creature object. The eaten food pellet would obviously disappear, and the user could continue to creature food pellets and feed and reproduce the creatures. 
 
-The problem now was the flocking.
+The problem now was the flocking. I needed to write code that would allow the creatures to crowd together, but not touch each other. So basically flock.
 
-Even though I managed to pin down some basic code for creatures following the mouse, it wasn't very useful. 
+Again, I couldn't simply write by own code for this, since it would require a deep understand of seeking and separation forces. So I sought to look for similar examples that accomplished a similar goal in order to implement my code into mine, with credit of course. 
 
 ### Positives and Negatives
 
