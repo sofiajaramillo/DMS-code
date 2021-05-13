@@ -22,7 +22,15 @@ What this resulted was the idea of making it so that the creatures evolve in col
 
 ### Attempt and Process
 
+I started by simply doing what I did for my squirrel eat squirrel project, that is, start by creating a creature class. A class that created a simply circle that moved. In this case, though the movement would be dictated by the player. The object, aka, our creature, would simply follow the mouse.
 
+I'm not very keen of the physics/forces that were reuqired to accomplish this movement. So I mainly looked at examples that accomplished this effect. I forget which example I used, I'm pretty sure it was from a processing example. But since I didn't end up using this code, I doesn't matter too badly. Explained a bit later.
+
+After incorporting this simple code, I paused and starting creating the food class for creating food pellets that the creatures would eat.
+
+This was also fairly easy since it's just a condensed duplicate of the creature class, albeit without the movement. Instead 
+
+After finishing the food portion, I simply used some of the code from my squirrel code for eating and reprducing. I obviously tweaked it to fit this new context, and 
 
 ### Positives and Negatives
 
