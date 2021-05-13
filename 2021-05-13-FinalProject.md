@@ -60,6 +60,8 @@ I first started by making it so that the first creature gets set with a random h
 
 I also thought it would be cool for the hue to change in both directions, either add or subtract hue. So I created two types of food pellets, blacks and whites, that would do that exactly, subtract and add hue when eatten.
 
+Apart from hue, there was also brightness and saturation. I didn't want to mess with these values too much, since they don't add too much to the color as much as hue. So Iafter setting a set saturation and brightness level, I simply made it so that the user can conrol them via sliders on the screen, if desired. 
+
 I also thought about functionality a bit, so I proceded to code a start/play screen and a pause screen to facilitate the program. It took some if statements, and despite that the pause screen is still a bit iffy, it works for it's purpose.
 
 You would think that at some point I would implemement my important zoomnig in feature. But the sad reality is that I wasn't able to incorporate this feature. Mainly becuase of time and prioritizing other things, but also because if felt like a tricky thing to do and I wasn't exactly confident in a way to accomplish this effect. I already had a strong foundation, so I didn't want to rock the boat and potentially mess something up.
@@ -68,5 +70,5 @@ The good thing is that I was able to create a new feature that I didn't even tho
 
 I thought about ways that I could make the program more fun, and I realized that I should utilize the fact that I have all these colorful creatures controlled by the player. So I thought that it would be cool to make them act like brushes. So I coded some if statements to stop the loop witht a hit of a button, and I got just that. Now the creatures could leave long lines of "paint" behind on the screen.
 
-
+Lastly, my 
 
