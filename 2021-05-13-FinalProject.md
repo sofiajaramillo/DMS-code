@@ -64,5 +64,9 @@ I also thought about functionality a bit, so I proceded to code a start/play scr
 
 You would think that at some point I would implemement my important zoomnig in feature. But the sad reality is that I wasn't able to incorporate this feature. Mainly becuase of time and prioritizing other things, but also because if felt like a tricky thing to do and I wasn't exactly confident in a way to accomplish this effect. I already had a strong foundation, so I didn't want to rock the boat and potentially mess something up.
 
-The good thing is that I was able to create a new feature that I didn't even thought of at first. This comes in the form of the creatures actually leaving a trail behind, like a paintbrush. I thought about ways that 
+The good thing is that I was able to create a new feature that I didn't even thought of at first. This comes in the form of the creatures actually leaving a trail behind, like a paintbrush. 
+
+I thought about ways that I could make the program more fun, and I realized that I should utilize the fact that I have all these colorful creatures controlled by the player. So I thought that it would be cool to make them act like brushes. So I coded some if statements to stop the loop witht a hit of a button, and I got just that. Now the creatures could leave long lines of "paint" behind on the screen.
+
+
 
