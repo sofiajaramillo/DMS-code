@@ -36,9 +36,19 @@ So now I had a program that created a creature, at this point a simple circle, t
 
 The problem now was the flocking. I needed to write code that would allow the creatures to crowd together, but not touch each other. So basically flock.
 
-Again, I couldn't simply write by own code for this, since it would require a deep understand of seeking and separation forces. So I sought to look for similar examples that accomplished a similar goal in order to implement my code into mine, with credit of course. 
+Again, I couldn't simply write by own code for this, since it would require a deep understand of seeking and separation forces. So I sought to look for similar examples that accomplished a similar goal in order to implement my code into mine, with credit of course.
+
+I landed on the example for separation forces in the "Nature of Code" book, chapter 6 section 8. It did exactly what I was intending for. And in a perfect world I would have simply taken some of the basic setup of the code and brought it over to my code, simply implementing it.
+
+But overestimated how complex the code was, and the fact that I both didn't have the time and understanding to make it work that way.
+
+After some thought, I settled on the 
+
+Which is what I did, I used the example code, the separtion sketch as a base, and brought over my own code into it, basically modifiying to creature 
 
 ### Positives and Negatives
 
+After getting the flocking done, I had a pretty good setup. A program that 
 
+Now the next part was including the rest of my features. Both successfully and not.
 
