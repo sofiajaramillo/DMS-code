@@ -62,5 +62,7 @@ I also thought it would be cool for the hue to change in both directions, either
 
 I also thought about functionality a bit, so I proceded to code a start/play screen and a pause screen to facilitate the program. It took some if statements, and despite that the pause screen is still a bit iffy, it works for it's purpose.
 
-You would think that at some point I would implemement my important zoomnig in feature.
+You would think that at some point I would implemement my important zoomnig in feature. But the sad reality is that I wasn't able to incorporate this feature. Mainly becuase of time and prioritizing other things, but also because if felt like a tricky thing to do and I wasn't exactly confident in a way to accomplish this effect. I already had a strong foundation, so I didn't want to rock the boat and potentially mess something up.
+
+The good thing is that I was able to create a new feature that I didn't even thought of at first. This comes in the form of the creatures actually leaving a trail behind, like a paintbrush. I thought about ways that 
 
