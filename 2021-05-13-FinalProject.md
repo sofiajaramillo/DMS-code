@@ -32,11 +32,11 @@ This was also fairly easy since it's just a condensed duplicate of the creature 
 
 After finishing the food portion, I simply used some of the code from my squirrel code for eating and reproducing methods. I obviously tweaked it to fit this new context, and in the end, I managed to get it working.
 
-So now I had a program that created a 
+So now I had a program that created a creaute, currently a simple circle, that followed the mouse. With 
 
 The problem now was the flocking.
 
-Even though
+Even though 
 
 ### Positives and Negatives
 
