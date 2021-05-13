@@ -32,7 +32,7 @@ This was also fairly easy since it's just a condensed duplicate of the creature 
 
 After finishing the food portion, I simply used some of the code from my squirrel code for eating and reproducing methods. I obviously tweaked it to fit this new context, and in the end, I managed to get it working.
 
-So now I had a program that created a creaute, currently a simple circle, that followed the mouse. With 
+So now I had a program that created a creaute, currently a simple circle, that followed the mouse. With the click of the mouse, a random food pellet would appear. And if the circle went over to it. The circle would increase in size and reproduce, which simply means creating another creature object. The eaten food pellet would obviously disappear, and the user could continue to creature food pellets and feed and reproduce the creatures. 
 
 The problem now was the flocking.
 
