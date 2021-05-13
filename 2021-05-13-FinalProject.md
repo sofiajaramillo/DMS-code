@@ -28,9 +28,15 @@ I'm not very keen of the physics/forces that were reuqired to accomplish this mo
 
 After incorporting this simple code, I paused and starting creating the food class for creating food pellets that the creatures would eat.
 
-This was also fairly easy since it's just a condensed duplicate of the creature class, albeit without the movement. Instead 
+This was also fairly easy since it's just a condensed duplicate of the creature class, albeit without the movement. Instead it had code that would create a new food object upon a mouse click. 
 
-After finishing the food portion, I simply used some of the code from my squirrel code for eating and reprducing. I obviously tweaked it to fit this new context, and 
+After finishing the food portion, I simply used some of the code from my squirrel code for eating and reproducing methods. I obviously tweaked it to fit this new context, and in the end, I managed to get it working.
+
+So now I had a program that created a 
+
+The problem now was the flocking.
+
+Even though
 
 ### Positives and Negatives
 
