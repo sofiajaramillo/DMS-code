@@ -56,7 +56,9 @@ The first one, and probably the most important one, was the color feature. Basic
 
 I first started by making it so that the first creature gets set with a random hue every run. Then I wrote code so that every time the creature, or any other creature reproduced, the creature would pass down their hue, but with a difference of 10. So the next creature would have a lighter hue, therefore evolving.
 
-I also thought it would be cool for the hue to change in both directions, either add or subtract hue. So I created two types of food pellets, blacks and whites. 
+I also thought it would be cool for the hue to change in both directions, either add or subtract hue. So I created two types of food pellets, blacks and whites, that would do that exactly, subtract and add hue when eatten.
+
+I also thought about functionality a bit, so I proceded to code a start/play screen and a pause screen to facilitate the program. It took some if statements, and despite that the pause screen is still a bit iffy, it works for it's purpose.
 
 You would think that at some point I would implemement my important zoomnig in feature.
 
