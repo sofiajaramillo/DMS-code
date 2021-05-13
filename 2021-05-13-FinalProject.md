@@ -42,13 +42,21 @@ I landed on the example for separation forces in the "Nature of Code" book, chap
 
 But I overestimated how complex the code was, and the fact that I both didn't have the time and understanding to make it work that way. 
 
-After some thought, I reluctanlty settled on the idea of using this code as my basis instead, basically dropping the movement code I already had and sort of starting from scratch with this new code.
+After some thought, I reluctantly settled on the idea of using this code as my basis instead, basically dropping the movement code I already had and sort of starting from scratch with this new code.
 
-Which is what I did, I used the example code, this separation sketch as a base, and brought over my own code into it. I basically recreated my sketch over again in a downloa
+Which is what I did, I used the example code, this separation sketch as a base, and brought over my own code into it. I basically recreated my sketch over again.
 
 ### Positives and Negatives
 
 After getting the flocking done, I had a pretty good setup. A program that created creatures that ate and reproduced, moved by following the mouse, and stayed flocked together.
 
 Now the next part was including the rest of my features. Both successfully and not.
+
+The first one, and probably the most important one, was the color feature. Basically make it so that the creatures evolve in color as they reproduce.
+
+I first started by making it so that the first creature gets set with a random hue every run. Then I wrote code so that every time the creature, or any other creature reproduced, the creature would pass down their hue, but with a difference of 10. So the next creature would have a lighter hue, therefore evolving.
+
+I also thought it would be cool for the hue to change in both directions, either add or subtract hue. So I created two types of food pellets, blacks and whites. 
+
+You would think that at some point I would implemement my important zoomnig in feature.
 
