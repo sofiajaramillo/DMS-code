@@ -33,3 +33,5 @@ Here I'll put my devlogs for "Drawing, Moving, and Seeing with Code"
 [my Squirrels](2021-04-14-Squirrels.md)
 
 ### Devlog 7 (final)
+
+2021-05-13-FinalProject.md
