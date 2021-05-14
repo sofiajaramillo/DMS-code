@@ -36,4 +36,3 @@ Here I'll put my devlogs for "Drawing, Moving, and Seeing with Code"
 
 [my Final Project](2021-05-13-FinalProject.md)
 
-2021-05-13-FinalProject.md
