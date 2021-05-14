@@ -72,6 +72,10 @@ I thought about ways that I could make the program more fun, and I realized that
 
 Lastly, my creatures were a bit too simple. Like they were only colored circles, which might be fine for my simplistic self, but they don't really look like creatures. So I decided to look back at my previous project, where I created a pretty cool creature design, like a mutant squid. I liked what I did with the following eyes there, so I brought that code over. So they're still circles, but with a little googly eyes that follow the mouse when they move.
 
+Here's a quick link to the sketch:
+
+https://editor.p5js.org/sofiajaramillo/sketches/seHsgQe7N
+
 ### Final Thoughts
 
 So at the end of the day, I managed to produce a pretty solid program. One that creates these tiny living things that increase in numbers. That one can control, feed, and draw with.
@@ -81,5 +85,3 @@ My favorite part of this whole process was seeing my work slowly evolve, like my
 Honestly, this might be my favorite thing I've worked on this semester, and maybe in Processing as a whole. And I could totally see myself using some aspect of this program in future creative endeavors.
 
 It's still a bit upsetting that that I can't completely call this work my own, since I am working from the code from someone else. But my main hope is that as I learn more and understand some of these trickier subjects, I could potentially come back and write it completely from my own knowledge, without someone else's influence.
-
-
