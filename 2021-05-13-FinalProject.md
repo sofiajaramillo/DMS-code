@@ -70,7 +70,7 @@ The good thing is that I was able to create a new feature that I didn't even tho
 
 I thought about ways that I could make the program more fun, and I realized that I should utilize the fact that I have all these colorful creatures controlled by the player. So I thought that it would be cool to make them act like brushes. So I coded some if statements to stop the loop witht a hit of a button, and I got just that. Now the creatures could leave long lines of "paint" behind on the screen.
 
-Lastly, my creatures were a bit too simple. Like they were only colored circles, which might be fine for my simplistic self, but they don't really look like creatures. So I decided to look back at my previous project, where I created 
+Lastly, my creatures were a bit too simple. Like they were only colored circles, which might be fine for my simplistic self, but they don't really look like creatures. So I decided to look back at my previous project, where I created a pretty cool creature design, like a mutant squid. I liked what I did with the following eyes there, so I brought that code over. So they're still circles, but with a little googly eyes that follow the mouse when they move.
 
 ### Final Thoughts
 
