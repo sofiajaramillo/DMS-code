@@ -78,8 +78,8 @@ So at the end of the day, I managed to produce a pretty solid program. One that 
 
 My favorite part of this whole process was seeing my work slowly evolve, like my creatures. Adopting and leaving features, and thinking of new things to potentionally bring in. I'm very intrigued by all the different features that I could theoretically add in the future.
 
-Honestly, this might be my favorite thing I've worked on this semester, and maybe processing as a whole. And I could totally see myself using some aspect of this program in future creative endeavors.
+Honestly, this might be my favorite thing I've worked on this semester, and maybe in Processing as a whole. And I could totally see myself using some aspect of this program in future creative endeavors.
 
-It's still a bit upsetting that that I can't completely call this work my own, since I am working from the code from someone else. But my main hope is that 
+It's still a bit upsetting that that I can't completely call this work my own, since I am working from the code from someone else. But my main hope is that as I learn more and understand some of these trickier subjects, I could potentially come back and write it completely from my own knowledge, without someone else's influence.
 
 
