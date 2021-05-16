@@ -14,7 +14,7 @@ I would use this method later within the enemy class itself so that the enemies 
 
 I didn't get to take a screenshot, but here's a sketch of what my sketch looked like:
 
-![Squirrel Sketch.jpg](Squirrel Sketch.jpg)
+![Squirrel Sketch.jpg](SquirrelSketch.jpg)
 
 
 # Implementations
@@ -32,7 +32,7 @@ Overall, I implemented all my team members' design elements into my code so that
 
 Again, no screenshots, but here's a drawing:
 
-![Squirrel Sketch 2.jpg](Squirrel Sketch 2.jpg)
+![Squirrel Sketch 2.jpg](SquirrelSketch2.jpg)
 
 
 # Advanced Stuff
