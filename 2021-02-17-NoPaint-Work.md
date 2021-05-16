@@ -2,7 +2,7 @@
 
 I found the program to be charming to use. It was funny going in blind, pressing the buttons and observing the results, figuring out what was being displayed each time. The pixel aesthetics and sounds are fun, and although some of the elements were more fun than others, it was still interesting seeing all the different variations in terms of color, position, direction, etc.
 
-![Paint2.png](Paint2.png =250x250)
+![Paint2.png](Paint2.png)
 
 
 It did frustrat me how the work you created was wholly dependent on this game of "chance." Basically waiting until the next random paint object/tool would be something you eventually liked. The lack of control definetly bothered me, but there's also something exciting about glambing on using the tools, either using it and hoping you like it or regreting using it and being incapable of taking it back, but still carrying on and hoping it would still end up looking good.
