@@ -74,9 +74,13 @@ I thought about ways that I could make the program more fun, and I realized that
 
 Lastly, my creatures were a bit too simple. Like they were only colored circles, which might be fine for my simplistic self, but they don't really look like creatures. So I decided to look back at my previous project, where I created a pretty cool creature design, like a mutant squid. I liked what I did with the following eyes there, so I brought that code over. So they're still circles, but with a little googly eyes that follow the mouse when they move.
 
+![CreatureProgram](CreatureProgram.gif)
+
+*The Creature Program in essence*
+
 ![DrawingFlocking](DrawingFlocking.gif)
 
-![CreatureProgram](CreatureProgram.gif)
+*The new drawing function I came up with*
 
 Here's a quick link to the sketch:
 
