@@ -34,6 +34,8 @@ After finishing the food portion, I simply used some of the code from my squirre
 
 So now I had a program that created a creature, at this point a simple circle, that followed the mouse. With the click of the mouse, a random food pellet would appear. And if the circle went over to it, the circle would increase in size and reproduce, which simply means creating another creature object. The eaten food pellet would obviously disappear, and the user could continue to creature food pellets and feed and reproduce the creatures. 
 
+![Attemp](ProjectSketchgif.gif)
+
 ### Flocking
 
 The problem now was the flocking. I needed to write code that would allow the creatures to crowd together, but not touch each other. So basically flock.
