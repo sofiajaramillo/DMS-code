@@ -11,7 +11,6 @@ I did find the process a bit more frustrating than I thought. This is because, d
 
 ![LOGO Screenshot](LOGOScreenshot.png)
 
-![myCanvas](myCanvas.jpg)
 
 When making this small, simple sunset drawing, it took me more time than I'm willing to admit to actually
 draw it all out. This is because I wasn't aware of there being a command for erasing or putting the pen up, so every time I made a mistake, I cleared the screen and started all over. I did eventually figure it out, but it was annoying. I think the experience would have been way easier if there was a function to tell the coordinates of the pointer so that fixing mistakes would not be such a hassle.
