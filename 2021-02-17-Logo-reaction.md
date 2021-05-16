@@ -4,12 +4,12 @@ Working with LOGO was a bit nostalgic. It reminded me of when I initally started
 
 I'm always been a big fan of pixel art so I found the process of making these drawings charming. A lot of the things I made were simple shapes and patterns. I didn't get to experiment with different colors, but the black and white aesthethic is something I find appealing so I didn't really mind.
 
-![LOGO Screenshot 2.png](LOGO Screenshot 2.png)
+![LOGO Screenshot 2](LOGO Screenshot 2.png)
 
 
 I did find the process a bit more frustrating than I thought. This is because, despite the commands being fairly simple and easy to remember, the process of drawing something even relatively simple can take forever. This is mainly becuase of the need to specify the rotation, which not only takes up time but can be a bit disorienting, causing me to sometimes make wrongful turns. I do have to admit that making mistakes can some times led to fun discoveries so at least there's that.
 
-![LOGO Screenshot.png](LOGO Screenshot.png)
+![LOGO Screenshot](LOGO Screenshot.png)
 
 ![myCanvas](myCanvas.jpg)
 
