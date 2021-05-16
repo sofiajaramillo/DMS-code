@@ -14,7 +14,7 @@ I would use this method later within the enemy class itself so that the enemies 
 
 I didn't get to take a screenshot, but here's a sketch of what my sketch looked like:
 
-![Squirrel Sketch.jpg]({{site.baseurl}}/Squirrel Sketch.jpg)
+![Squirrel Sketch.jpg](Squirrel Sketch.jpg)
 
 
 # Implementations
@@ -32,7 +32,7 @@ Overall, I implemented all my team members' design elements into my code so that
 
 Again, no screenshots, but here's a drawing:
 
-![Squirrel Sketch 2.jpg]({{site.baseurl}}/Squirrel Sketch 2.jpg)
+![Squirrel Sketch 2.jpg](Squirrel Sketch 2.jpg)
 
 
 # Advanced Stuff
@@ -45,7 +45,7 @@ I want to implement another button to make the squirrel player move on it's own,
  
 Here's how the game looks like as of now:
 
-![Squirrel1.PNG]({{site.baseurl}}/Squirrel1.png)
+![Squirrel1.PNG](Squirrel1.png)
 
 And here's the game:
 
