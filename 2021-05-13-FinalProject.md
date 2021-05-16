@@ -34,7 +34,7 @@ After finishing the food portion, I simply used some of the code from my squirre
 
 So now I had a program that created a creature, at this point a simple circle, that followed the mouse. With the click of the mouse, a random food pellet would appear. And if the circle went over to it, the circle would increase in size and reproduce, which simply means creating another creature object. The eaten food pellet would obviously disappear, and the user could continue to creature food pellets and feed and reproduce the creatures. 
 
-![Attemp](ProjectSketchgif.gif)
+![Attempt](ProjectSketchgif.gif)
 
 ### Flocking
 
@@ -73,6 +73,10 @@ The good thing is that I was able to create a new feature that I didn't even tho
 I thought about ways that I could make the program more fun, and I realized that I should utilize the fact that I have all these colorful creatures controlled by the player. So I thought that it would be cool to make them act like brushes. So I coded some if statements to stop the loop witht a hit of a button, and I got just that. Now the creatures could leave long lines of "paint" behind on the screen.
 
 Lastly, my creatures were a bit too simple. Like they were only colored circles, which might be fine for my simplistic self, but they don't really look like creatures. So I decided to look back at my previous project, where I created a pretty cool creature design, like a mutant squid. I liked what I did with the following eyes there, so I brought that code over. So they're still circles, but with a little googly eyes that follow the mouse when they move.
+
+![DrawingFlocking](DrawingFlocking.gif)
+
+![CreatureProgram](CreatureProgram.gif)
 
 Here's a quick link to the sketch:
 
